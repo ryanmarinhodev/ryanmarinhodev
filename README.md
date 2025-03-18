@@ -13,7 +13,6 @@
 </p>
 
 - 🔭 Atualmente trabalhando em projetos pessoais e freelancers.
-- 🌱 Estudando tecnologias como **Next.js**, **TypeScript** e **Node.js**.
 - 🎯 Foco em performance, usabilidade e boas práticas.
 - 💬 Me pergunte sobre **React**, **JavaScript**, **APIs** e integração com **bancos de dados**.
 - ⚡ Curiosidade: adoro criar bots e automações que facilitam o dia a dia!
