@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ryanmarinhoportfolio.netlify.app/">Portfólio</a> • 
-  <a href="https://www.linkedin.com/in/ryanmarinhodev/](https://www.linkedin.com/in/ryan-marinho-861120211/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ryan-marinho-861120211/">LinkedIn</a>
 </p>
 
 ---
