@@ -1,79 +1,162 @@
-<h1 align="center">Hi, I'm Ryan 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full Stack Developer focused on building reliable web applications and backend solutions.
-</p>
+# Ryan Marinho
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/ryanmarinhodev/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU-EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Full Stack Developer
 
----
+Building web applications with a focus on backend development, APIs, integrations and scalable solutions.
 
-### About me
+<br/>
 
-I'm a Full Stack Developer working primarily with **Node.js, TypeScript, AdonisJS, Vue.js and React.js**.
+<a href="https://ryanmarinhoportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ryanmarinhodev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ryanmarinhodev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I enjoy working on backend development, APIs, integrations and solving problems involving business rules and data.
-
-Currently focused on improving my knowledge of software architecture, backend development and modern web technologies.
+</div>
 
 ---
 
-### Tech stack
+## About me
+
+I'm a **Full Stack Developer** focused on building and maintaining web applications, REST APIs and backend services.
+
+My main interest is **backend development**, where I work with business rules, integrations, databases and application architecture.
+
+Currently, I work mainly with **Node.js, TypeScript, AdonisJS, Vue.js and Oracle**, while also having experience with React, Next.js, PostgreSQL and Python.
+
+---
+
+## Tech Stack
+
+### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,adonis,vue,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css" />
 </p>
 
-**Backend**
+`React` · `Next.js` · `Vue.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
 
-`Node.js` · `TypeScript` · `AdonisJS` · `REST APIs`
+### Back-end
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,adonis,python" />
+</p>
 
-`Vue.js` · `JavaScript` · `HTML` · `CSS`
+`Node.js` · `AdonisJS` · `Python`
 
-**Database**
+### Databases
 
-`Oracle SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-**Tools**
+`Oracle` · `PostgreSQL` · `SQL`
 
-`Docker` · `Git` · `Postman` · `Linux` · `VS Code`
+### Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+`Git` · `GitHub` · `Docker` · `Azure DevOps` · `Linux` · `VS Code` · `Postman`
 
 ---
 
-### What I'm working on
+## What I work with
 
-- Building and maintaining web applications
-- Developing REST APIs and backend services
-- Integrating external services and APIs
-- Working with relational databases and SQL
-- Improving my knowledge of software architecture and clean code
+```ts
+const developer = {
+  name: "Ryan Marinho",
+  role: "Full Stack Developer",
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Vue.js",
+    "TypeScript"
+  ],
+
+  backend: [
+    "Node.js",
+    "AdonisJS",
+    "Python"
+  ],
+
+  databases: [
+    "Oracle",
+    "PostgreSQL",
+    "SQL"
+  ],
+
+  tools: [
+    "Docker",
+    "Git",
+    "Azure DevOps",
+    "Linux"
+  ],
+
+  interests: [
+    "Backend Development",
+    "REST APIs",
+    "System Integrations",
+    "Software Architecture"
+  ]
+};
+```
 
 ---
 
-### GitHub
+## GitHub Stats
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&theme=transparent"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&theme=transparent"
-  />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Always learning, building and improving.</i>
-</p>
+## Current Focus
+
+- Improving backend development skills
+- Building and maintaining REST APIs
+- Working with system integrations
+- Improving SQL and database knowledge
+- Studying software architecture and clean code
+- Expanding knowledge in TypeScript and Node.js ecosystem
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://ryanmarinhoportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ryanmarinhodev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Marinho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ryanmarinhodev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ryanmarinhodev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building, learning and improving one project at a time.
+
+</div>
