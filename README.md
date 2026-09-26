@@ -1,96 +1,79 @@
-<h1 align="center">Ryan Marinho</h1>
+<h1 align="center">Hi, I'm Ryan 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front End / Full Stack
+  Full Stack Developer focused on building reliable web applications and backend solutions.
 </p>
 
 <p align="center">
-  <a href="https://ryanmarinhoportfolio.netlify.app/">Portfólio</a> • 
-  <a href="https://www.linkedin.com/in/ryan-marinho-861120211/">LinkedIn</a>
-</p>
-
----
-
-## 🚀 Sobre mim
-
-Sou desenvolvedor focado na construção de aplicações web modernas, com experiência prática em sistemas corporativos.
-
-Atuei no desenvolvimento de um sistema utilizado por toda a empresa, participando desde a concepção até a entrega em produção, trabalhando com front-end, integração de APIs e modelagem de dados.
-
-Atualmente, estou em busca de novas oportunidades como Desenvolvedor Front End / Full Stack.
-
----
-
-## 💼 Experiência relevante
-
-### Sistema corporativo (Nasajon)
-- Desenvolvimento completo da aplicação (front-end e integração com back-end)
-- Implementação com React e TypeScript
-- Integração com APIs REST
-- Modelagem de dados com SQL
-- Sistema adotado por toda a empresa
-
----
-
-## 🛠️ Tecnologias
-
-**Front-end**
-- React
-- Next.js
-- TypeScript
-
-**Back-end**
-- Node.js
-- Python
-
-**Banco de Dados**
-- PostgreSQL
-- SQL
-
-**Outros**
-- APIs REST
-- Git / GitHub
-- Docker
-
----
-
-## 📌 Projetos em destaque
-
-### 🔹 Portal de Clientes
-- Autenticação por perfis e controle de acesso
-- Integração com Google Drive
-- Painel administrativo
-- Aplicação em produção
-
-🔗 https://home3tecnologiaportal.vercel.app/
-
----
-
-### 🔹 Website Institucional
-- Desenvolvido com Next.js
-- Foco em SEO e performance
-- Galeria dinâmica de projetos
-
-🔗 https://home3tecnologia.com/
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanmarinhodev&show_icons=true&theme=dark&title_color=494335&icon_color=494335&text_color=ffffff&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmarinhodev&layout=compact&title_color=494335&text_color=ffffff&bg_color=0d1117" height="150"/>
+  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/ryanmarinhodev/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU-EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Contato
+### About me
 
-- LinkedIn: https://www.linkedin.com/in/ryanmarinhodev/
-- Portfólio: https://ryanmarinhoportfolio.netlify.app/
+I'm a Full Stack Developer working primarily with **Node.js, TypeScript, AdonisJS, Vue.js and React.js**.
+
+I enjoy working on backend development, APIs, integrations and solving problems involving business rules and data.
+
+Currently focused on improving my knowledge of software architecture, backend development and modern web technologies.
+
+---
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,adonis,vue,docker,git,github,linux" />
+</p>
+
+**Backend**
+
+`Node.js` · `TypeScript` · `AdonisJS` · `REST APIs`
+
+**Frontend**
+
+`Vue.js` · `JavaScript` · `HTML` · `CSS`
+
+**Database**
+
+`Oracle SQL`
+
+**Tools**
+
+`Docker` · `Git` · `Postman` · `Linux` · `VS Code`
+
+---
+
+### What I'm working on
+
+- Building and maintaining web applications
+- Developing REST APIs and backend services
+- Integrating external services and APIs
+- Working with relational databases and SQL
+- Improving my knowledge of software architecture and clean code
+
+---
+
+### GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&theme=transparent"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&theme=transparent"
+  />
+</p>
 
 ---
 
 <p align="center">
-  Disponível para novas oportunidades 🚀
+  <i>Always learning, building and improving.</i>
 </p>
